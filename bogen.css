@@ -20,3 +20,6 @@
   line-height: 1;
   transform: rotate(270deg);
 }
+.wrapper {
+  display: grid;
+  }
