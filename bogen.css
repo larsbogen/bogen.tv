@@ -1,4 +1,5 @@
 .bogen {
+  align-self: end;
   text-transform: uppercase;
   font-family: 'Source Code Pro', monospace;
   font-size: 5rem;
