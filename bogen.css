@@ -1,6 +1,6 @@
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(4, 106px);
+  grid-template-columns: repeat(4, 110px);
    grid-template-areas:
    "a b b b ";
   }
@@ -15,7 +15,7 @@
   border: 3px solid;
   padding: 1rem;
   margin: 2px;
-  max-width: 280px;
+  max-width: 290px;
   grid-area: b;
   }
 
