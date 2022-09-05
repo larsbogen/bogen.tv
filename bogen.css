@@ -2,7 +2,7 @@
   position: absolute;
   display: grid;
   grid-template-columns: repeat(4, 120px);
-  height:  300px;
+  height:  200px;
   grid-template-areas:
    "a b b b ";
   }
