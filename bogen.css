@@ -1,6 +1,6 @@
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(4, 100px);
+  grid-template-columns: repeat(4, 106px);
    grid-template-areas:
    "a b b b ";
   }
@@ -23,7 +23,7 @@
   align-self: start;
   text-transform: uppercase;
   font-family: 'Source Code Pro', monospace;
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: 300;
   line-height: 1;
   transform: rotate(270deg);
