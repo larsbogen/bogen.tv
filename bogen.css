@@ -10,3 +10,15 @@
   max-width: 280px;
   /* transform: rotate(270deg); */
 }
+.foto {
+  text-transform: uppercase;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 5rem;
+  font-weight: 300;
+  line-height: 1;
+  border: 3px solid;
+  padding: 2rem;
+  margin: 20px;
+  max-width: 280px;
+  transform: rotate(270deg);
+}
