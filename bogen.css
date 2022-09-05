@@ -1,7 +1,8 @@
 .wrapper {
   display: grid;
   grid-template-columns: repeat(4, 120px);
-   grid-template-areas:
+  height:  300px;
+  grid-template-areas:
    "a b b b ";
   }
 
@@ -12,7 +13,7 @@
   font-size: 5rem;
   font-weight: 300;
   line-height: 1;
-  border: 3px solid;
+  border: 4px solid;
   padding: 1rem;
   margin: 2px;
   max-width: 300px;
@@ -27,5 +28,6 @@
   font-weight: 300;
   line-height: 1;
   transform: rotate(270deg);
+  transform-origin: y-axis: center;
   grid-area: a;
 }
