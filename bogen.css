@@ -28,6 +28,6 @@
   font-weight: 300;
   line-height: 1;
   transform: rotate(270deg);
-  transform-origin: y-axis: center;
+  transform: y-axis: center;
   grid-area: a;
 }
