@@ -32,6 +32,6 @@
   transform: rotate(270deg);
   transform-origin: center;
 /* text-align: center; */
-/*  align-self: center; */
+   align-self: center;
   grid-area: a;
 }
