@@ -31,7 +31,7 @@
   line-height: 1;
   transform: rotate(270deg);
   transform-origin: center;
-/* text-align: center; */
-   align-self: center;
+  text-align: center;
+  align-self: center;
   grid-area: a;
 }
