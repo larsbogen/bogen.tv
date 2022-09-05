@@ -22,4 +22,7 @@
 }
 .wrapper {
   display: grid;
+  border: 2px solid #f76707;
+  border-radius: 5px;
+  background-color: #fff4e6;
   }
