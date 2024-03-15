@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="bogen.css">
-<style>@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
-</style>
 <html>
 <title>Lars</title>
 <body>
@@ -9,12 +7,12 @@
 <h1 class="bogen" data-element="bogen">Lars Martin Bogen</h1>
 <h2 class="foto" data-element="foto">Fotograf</h2>
 </div>
-
+<div class="input-container"></div>
     <label for="urlInput">Skriv inn URL-kodet tekst:</label>
     <input type="text" id="urlInput" placeholder="Skriv inn URL-kodet tekst her">
     <button onclick="decodeAndDisplay()">Dekod Tekst</button>
     <p>Dekodet Tekst: <span id="decodedText"></span></p>
-
+</div>
     <script>
         function decodeAndDisplay() {
             var urlEncoded = document.getElementById("urlInput").value;
