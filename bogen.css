@@ -55,8 +55,3 @@ button {
 p {
   margin-top: 20px;
 }
-
-.wrapper {
-  display: flex;
-  align-items: center;
-}
