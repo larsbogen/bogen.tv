@@ -2,7 +2,7 @@
  /* display: flex;
   float: right; */
   display: grid;
-  grid-template-columns: repeat(4, 100px);
+  grid-template-columns: repeat(4, 120px);
   grid-template-areas:
    "a b b b ";
   }
